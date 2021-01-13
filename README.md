@@ -7,5 +7,5 @@ This web app will eventually allow users to enter a list of (in-game) products t
 ## Implementation
 A form - in a similar style to the "buy" menu in the game itself - will be used to select the products. Various drop-downs and checkboxes will be used to select other parameters (the exact layout and scope of these is still TBC). The product and price information will be pulled from an SQL database running on the Node server (using Express.js). The summation and calculations will be carried out on the client side.
 
-##Notes
-This project is currently incomplete, and the quality and structure of the code included may not reflect that of the final release. Again, this is an experiment project for me, I have little prior knowledge of React and Express.js.
+## Notes
+This project is currently incomplete, and the quality and structure of the code included may not reflect that of the final release. Again, this is an experiment project for me, to learn more about React, JS, and Web Development.
