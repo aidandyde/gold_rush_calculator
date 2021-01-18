@@ -1,4 +1,7 @@
 # Gold Rush Price Calculator
+## NOTICE
+This project is currently incomplete as I've run into a major error and I haven't had much time to fix it. I aim to improve my understanding of React through tutorials and other small projects before returning to this one, as it was only ever intended to be an experiment.
+## Description
 A Simple React/Node/Express/MySQL CRUD app to calculate the prices of products in one of my favourite video games.
 While the project itself isn't really large enough to fully take advantage of React's capabilities, I decided to use it purely to improve my understanding of the various
 tools involved.
